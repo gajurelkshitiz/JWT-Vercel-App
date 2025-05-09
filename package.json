@@ -4,7 +4,7 @@
   "description": "\"A Json Based WEB Token use to securely transmit information between client and server\"",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon api/app.js"
   },
   "author": "Kshitiz Gajurel",
   "license": "ISC",
